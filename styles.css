@@ -1,0 +1,47 @@
+.button {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #0086d3;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .button:hover {
+    background-color: #3e7b9e;
+  }
+
+  .loginpagestyle {
+      border-style: solid;
+      max-width:320px;
+      margin:auto;
+      border-color: transparent;
+      border-radius: 1em;
+      background-color: rgb(228, 228, 228);
+  }
+
+  .inputboxemail {
+    border-bottom-left-radius: 0px;;
+    border-bottom-right-radius: 0px;;
+  }
+
+  .inputboxpassword {
+    border-top-left-radius: 0px;;
+    border-top-right-radius: 0px;;
+    border-top:0px;
+  }
+
+  .logoutbtn {
+    
+    border-radius: 1em;
+    border-bottom: 10px;
+    background-color: #303233;
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+  }
